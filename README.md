@@ -14,21 +14,22 @@
 
 <p align="left">
     <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" alt="C++" width="40" height="40"/>
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fjava.svg&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fjava&tbnid=Gx3aPvTfhhiy5M&vet=12ahUKEwiS86bc3ILxAhVxEbcAHSU8CqQQMygAegUIARCzAQ..i&docid=BpfzbV2A2apw0M&w=2500&h=2500&q=javasvg%20image&ved=2ahUKEwiS86bc3ILxAhVxEbcAHSU8CqQQMygAegUIARCzAQ" alt="Java" width="40" height="40"/>
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd7%2FAndroid_robot.svg&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAndroid_robot.svg&tbnid=iPx-coG4gIz2uM&vet=12ahUKEwiglNaH3YLxAhVWK7cAHegTA10QMygAegUIARDHAQ..i&docid=nJa0rR_tGj0s6M&w=682&h=800&q=android%20svg%20image&ved=2ahUKEwiglNaH3YLxAhVWK7cAHegTA10QMygAegUIARDHAQ" alt="Android" width="40" height="40"/>
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F117653%2Fsql-file-format.svg&imgrefurl=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F120229%2Fsql&tbnid=Jc4oAGkTw1amiM&vet=12ahUKEwjU5Jep3YLxAhURTXwKHfbcCqYQMygDegUIARC5AQ..i&docid=-xjdQFFc1SejIM&w=548&h=548&q=sql%20svg%20logo&ved=2ahUKEwjU5Jep3YLxAhURTXwKHfbcCqYQMygDegUIARC5AQ" alt="SQL" width="40" height="40"/>
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F31053%2Fxml.svg&imgrefurl=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F56785%2Fxml&tbnid=CkOOGvV6FJhkuM&vet=12ahUKEwiXm9PX3YLxAhVSk0sFHeJLB8UQMygCegUIARC3AQ..i&docid=f2b-CSEhLE-NAM&w=800&h=800&q=xml%20svg%20logo&ved=2ahUKEwiXm9PX3YLxAhVSk0sFHeJLB8UQMygCegUIARC3AQ" alt="XML" width="40" height="40"/>
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd4%2FJavascript-shield.svg%2F1200px-Javascript-shield.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJavascript-shield.svg&tbnid=j_BQXi_vKufbpM&vet=12ahUKEwiiztTq3YLxAhVYXysKHTAXBcoQMygCegUIARC5AQ..i&docid=Uhnusq6383PgbM&w=1200&h=1693&q=javascriptsvg%20logo&ved=2ahUKEwiiztTq3YLxAhVYXysKHTAXBcoQMygCegUIARC5AQ" alt="JavaScript" width="40" height="40"/>
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodix.com%2Flogo%2F1960442.jpg&imgrefurl=https%3A%2F%2Flogodix.com%2Fnosql&tbnid=bqEaZnDt9zjyEM&vet=12ahUKEwj_6tX93YLxAhX1xnMBHehwAH8QMygEegUIARCxAQ..i&docid=BWVIkPtHuvINQM&w=474&h=486&q=nosql%20svg%20logo&ved=2ahUKEwj_6tX93YLxAhX1xnMBHehwAH8QMygEegUIARCxAQ" alt="NoSQL" width="40" height="40"/>
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fnodejs-1-logo.png&imgrefurl=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fnode-js-logo%2F&tbnid=YTfBFrtugnKYPM&vet=12ahUKEwjvvfum3oLxAhXVgeYKHdOJBBoQMygDegUIARC4AQ..i&docid=Kxg8U0A7sQfndM&w=800&h=600&q=nodejs%20svg%20logo&ved=2ahUKEwjvvfum3oLxAhXVgeYKHdOJBBoQMygDegUIARC4AQ" alt="NodeJS" width="40" height="40"/>
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F91%2FOcticons-mark-github.svg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AOcticons-mark-github.svg&tbnid=aNDnzJBDeRJnTM&vet=12ahUKEwi7udu63ILxAhVRs0sFHSU0CNkQMygAegUIARC2AQ..i&docid=TEtRtKtvl-4gfM&w=1024&h=1024&q=github%20svg%20image&ved=2ahUKEwi7udu63ILxAhVRs0sFHSU0CNkQMygAegUIARC2AQ" alt="GitHub" width="40" height="40"/>
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwp-content%2Fuploads%2F2019%2F07%2Fexpress-logo.png&imgrefurl=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fexpressjs-tutorial%2F&tbnid=7_geg25YOQenJM&vet=12ahUKEwiapNPH3oLxAhUOn0sFHV5XCV8QMygBegUIARC0AQ..i&docid=X-rCRRt-Kwms2M&w=1102&h=500&q=expressjs%20svg%20logo&ved=2ahUKEwiapNPH3oLxAhUOn0sFHV5XCV8QMygBegUIARC0AQ" alt="ExpressJS" width="40" height="40"/>
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="JQuery" width="40" height="40"/>
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Firebase" width="40" height="40"/>
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Haskell" width="40" height="40"/>
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Linux/Unix" width="40" height="40"/>
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Google Cloud" width="40" height="40"/>
+    <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" alt="Java" width="40" height="40"/>
+    <img src="https://www.freeiconspng.com/uploads/android-png-0.png" alt="Android" width="40" height="40"/>
+    <img src="https://www.freeiconspng.com/uploads/sql-database-icon-png-17.png" alt="SQL" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-512/xml-file-2330558-1950399.png" alt="XML" width="40" height="40"/>
+    <img src="https://www.pngix.com/pngfile/middle/150-1506301_computer-icons-logo-brand-javascript-angle-javascript-logo.png" alt="JavaScript" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/44005233/120921368-faf0ef80-c6e0-11eb-93fb-4ac236da6f0a.png" alt="NoSQL" width="40" height="40"/>
+    <img src="https://iconape.com/wp-content/png_logo_vector/node-js-2.png" alt="NodeJS" width="40" height="40"/>
+    <img src="https://www.freeiconspng.com/uploads/github-logo-icon-5.png" alt="GitHub" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/44005233/120921619-35a75780-c6e2-11eb-83a8-b0938788be3a.png" alt="ExpressJS" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/44005233/120921700-815a0100-c6e2-11eb-8d7c-1fecfe8821f4.png" alt="JQuery" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/44005233/120921731-9e8ecf80-c6e2-11eb-9ea1-aa04f03ced2e.png" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/44005233/120921753-c67e3300-c6e2-11eb-8f2a-f13924b346f2.png" alt="Firebase" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/44005233/120921764-d85fd600-c6e2-11eb-8b4b-4ab6b42de352.png" alt="Haskell" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/44005233/120921787-0218fd00-c6e3-11eb-973a-80972db0e751.png
+" alt="Linux" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/44005233/120921794-1230dc80-c6e3-11eb-9ad9-9b417858620d.png" alt="Google Cloud" width="40" height="40"/>
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
     <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
