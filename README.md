@@ -13,7 +13,7 @@
 ### Technical Skills
 
 <p align="left">
-    <img src="https://user-images.githubusercontent.com/44005233/120920846-7b622100-c6de-11eb-9085-4d4294fcc2b5.png" alt="C++" width="40" height="40"/>
+    <img src="https://www.freeiconspng.com/img/28389" alt="C++" width="40" height="40"/>
     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fjava.svg&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fjava&tbnid=Gx3aPvTfhhiy5M&vet=12ahUKEwiS86bc3ILxAhVxEbcAHSU8CqQQMygAegUIARCzAQ..i&docid=BpfzbV2A2apw0M&w=2500&h=2500&q=javasvg%20image&ved=2ahUKEwiS86bc3ILxAhVxEbcAHSU8CqQQMygAegUIARCzAQ" alt="Java" width="40" height="40"/>
     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd7%2FAndroid_robot.svg&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAndroid_robot.svg&tbnid=iPx-coG4gIz2uM&vet=12ahUKEwiglNaH3YLxAhVWK7cAHegTA10QMygAegUIARDHAQ..i&docid=nJa0rR_tGj0s6M&w=682&h=800&q=android%20svg%20image&ved=2ahUKEwiglNaH3YLxAhVWK7cAHegTA10QMygAegUIARDHAQ" alt="Android" width="40" height="40"/>
     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F117653%2Fsql-file-format.svg&imgrefurl=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F120229%2Fsql&tbnid=Jc4oAGkTw1amiM&vet=12ahUKEwjU5Jep3YLxAhURTXwKHfbcCqYQMygDegUIARC5AQ..i&docid=-xjdQFFc1SejIM&w=548&h=548&q=sql%20svg%20logo&ved=2ahUKEwjU5Jep3YLxAhURTXwKHfbcCqYQMygDegUIARC5AQ" alt="SQL" width="40" height="40"/>
