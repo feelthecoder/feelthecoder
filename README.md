@@ -27,8 +27,7 @@
     <img src="https://user-images.githubusercontent.com/44005233/120921731-9e8ecf80-c6e2-11eb-9ea1-aa04f03ced2e.png" alt="Bootstrap" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/44005233/120921753-c67e3300-c6e2-11eb-8f2a-f13924b346f2.png" alt="Firebase" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/44005233/120921764-d85fd600-c6e2-11eb-8b4b-4ab6b42de352.png" alt="Haskell" width="40" height="40"/>
-    <img src="https://user-images.githubusercontent.com/44005233/120921787-0218fd00-c6e3-11eb-973a-80972db0e751.png
-" alt="Linux" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/44005233/120921787-0218fd00-c6e3-11eb-973a-80972db0e751.png" alt="Linux" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/44005233/120921794-1230dc80-c6e3-11eb-9ad9-9b417858620d.png" alt="Google Cloud" width="40" height="40"/>
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
     <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="40" height="40"/>
@@ -36,10 +35,9 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/>
-    <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
 </p>
 
-* My primary coding language: C++
+* Primary Language : C++
 * Earned Gold badge & 5 star at HackerRank in various programming languages.
 * Passionate for learning & exploring new Tech.
 * Ask me about anything, I'll be happy to help.
