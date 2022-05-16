@@ -37,7 +37,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/>
 </p>
 
-* Primary Language : C++
+* Primary Language : Java
 * Earned Gold badge & 5 star at HackerRank in various programming languages.
 * Passionate for learning & exploring new Tech.
 * Ask me about anything, I'll be happy to help.
